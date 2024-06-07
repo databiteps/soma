@@ -15,4 +15,7 @@ Meu segundo codigo desenvolvido em portugol nas aulas de programação,
 > &nbsp;&nbsp;&nbsp;&nbsp;ESCREVA  c \
 > FIM
 
-Exemplo doo livro Lógica de Programação - Editora Viena
+## Fluxograma
+![image](https://github.com/databiteps/soma/assets/171501018/5109d4a1-35f2-4c0e-94c1-aecb9b39fc05)
+
+Exemplo do livro Lógica de Programação - Editora Viena
